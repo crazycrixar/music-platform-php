@@ -1,12 +1,12 @@
-
 # Simple Music Platform
 
-This is a straightforward music platform built with HTML, CSS, JavaScript, and PHP. Users can sign up, log in and listen to music.
+This is a straightforward music platform built with HTML, CSS, JavaScript, and PHP. Users can sign up, log in, and listen to music.
+
 ## Usage
 
-1. **Sign Up**: Create an account by clicking the "Sign Up" button and providing your details.
+1. **[Sign Up](signup.png)**: Create an account by clicking the "Sign Up" button and providing your details.
 
-2. **Log In**: Log in with your credentials.
+2. **[Log In](login.png)**: Log in with your credentials.
 
 ## Getting Started
 
