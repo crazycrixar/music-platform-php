@@ -6,12 +6,10 @@ This is a straightforward music platform built with HTML, CSS, JavaScript, and P
 
 1. **Sign Up**: Create an account by clicking the "Sign Up" button and providing your details.
 
-   ![Sign Up](signup.png)
 
-2. **Log In**: Log in with your credentials.
+3.  **homepage**: what the hompage looks like.
 
-   ![Log In](login.png)
-
+ ![homepage](homepage.png)
 ## Getting Started
 
 1. Clone this repository:
@@ -34,5 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 nothing here yet tho
-## homepage
-![homepage(homepage.png)
+
