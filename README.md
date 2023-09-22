@@ -4,9 +4,13 @@ This is a straightforward music platform built with HTML, CSS, JavaScript, and P
 
 ## Usage
 
-1. **[Sign Up](signup.png)**: Create an account by clicking the "Sign Up" button and providing your details.
+1. **Sign Up**: Create an account by clicking the "Sign Up" button and providing your details.
 
-2. **[Log In](login.png)**: Log in with your credentials.
+   ![Sign Up](signup.png)
+
+2. **Log In**: Log in with your credentials.
+
+   ![Log In](login.png)
 
 ## Getting Started
 
@@ -30,3 +34,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 nothing here yet tho
+## homepage
+![homepage(homepage.png)
